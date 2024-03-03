@@ -5,7 +5,7 @@ Membuat dashboard bike rental, project akhir dicoding, kelas "Belajar Analisis D
 ```
 pipenv install
 pipenv shell
-pip install numpy pandas scipy matplotlib seaborn jupyter
+pip install numpy pandas scipy matplotlib seaborn jupyter streamlit babel
 ```
 
 ## Run streamlit app
